@@ -1,0 +1,125 @@
+* {
+        font-family: 'Roboto', sans-serif;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    #cabecalho {
+        background:   #9fe5fe;     
+        width: 375px;
+        height: 70px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        
+    }
+
+    h1 {
+        color: #007c00;
+        font-size: 24px;
+        text-align: center;
+        padding-top: 20px
+    }
+
+    #caixa-principal {
+        background: #98ff98;
+        width: 375px;
+        padding: 24px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+
+    .paragrafo {
+        margin-bottom: 6px;
+        color: #000000;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 18px;
+
+    }
+
+    .select {
+        background: #FFFFFF;
+        border: 1px solid #BBBBBB;
+        border-radius: 4px;
+        height: 48px;
+        width: 327px;
+        margin-bottom: 23px;
+        appearance: none;
+        outline: none;
+        cursor: pointer;
+        padding-left: 16px;
+        font-size: 16px;
+        font-weight: bold;
+
+    }
+
+    #input {
+        height: 48px;
+        width: 327px;
+        background: #FFFFFF;
+        border: 1px solid #BBBBBB;
+        border-radius: 4px;
+        margin-bottom: 23px;
+        outline: none;
+        padding-left: 16px;
+    }
+
+    #button {
+        border-radius: 25px;
+        background-color: #9fe5fe;
+        width: 327px;
+        height: 48px;
+        font-size: 18px;
+        display: block;
+        cursor: pointer;
+        border: none;
+        margin-bottom: 23px;
+        font-weight: bold;
+        color: #007c00;
+
+
+    }
+
+    #button:active {
+        opacity: 0.5;
+
+
+    }
+
+    #caixa-interna {
+        border: 1px solid #9fe5fe;
+        border-radius: 4px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        
+
+    }
+
+    .caixa-menor {
+        text-align: center;
+
+
+    }
+
+    #seta {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+
+
+    }
+
+    .paragrafo-negrito {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    body {
+        background: #2C2C2C;
+    }
